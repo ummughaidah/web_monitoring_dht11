@@ -1,0 +1,19 @@
+h1{
+    padding-top: 3rem;
+}
+
+.table{
+    padding-top: 10rem;
+    color: #4949fc;
+    max-width: 70%;
+    margin: auto;
+}
+
+.table thead th {
+    text-align: center;
+    background-color: #f2f2f2; 
+}
+
+.table tbody td {
+    text-align: center;
+}
